@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  ul {
+    list-style: none;
+  }
+  
+  body {
+    text-align: center;
+  }
+  .google-logo {
+    margin-top: 200px;
+  }
+  .gray {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100px;
+    background-color: gainsboro;
+  }
+  .main-input {
+    height: 20px;
+    width: 20%;
+    margin: 0px auto;
+  }
+  footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .blue {
+    background-color: #4a3eec;
+    height: 150px;
+    width: 33%;
+    padding: 50px 0px;
+  }
+  .blue li {
+    width: 100%;
+  }
+  .finish {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+  }
+  .finish a {
+    margin-left: 20px;
+  }
